@@ -11,16 +11,16 @@ A Hotel Management System (HMS) named "SajiloInn", a web-based application that 
 *Bookings*
 ![Booking](https://github.com/Sophiya15/SajiloInn/blob/main/hms/storage/app/public/images/display_image/Booking.png)
 
-*Customer View*
+
 ![CustomerView](https://github.com/Sophiya15/SajiloInn/blob/main/hms/storage/app/public/images/display_image/Picture1.jpg)
+
 
 ![View2](https://github.com/Sophiya15/SajiloInn/blob/main/hms/storage/app/public/images/display_image/Picture2.jpg)
 
-*Login Portal*
 ![Login](https://github.com/Sophiya15/SajiloInn/blob/main/hms/storage/app/public/images/display_image/Picture3.jpg)
 
-*Specification*
+
 ![Specification](https://github.com/Sophiya15/SajiloInn/blob/main/hms/storage/app/public/images/display_image/Picture5.jpg)
 
-*Foods*
+
 ![Foods](https://github.com/Sophiya15/SajiloInn/blob/main/hms/storage/app/public/images/display_image/Picture6.jpg)
