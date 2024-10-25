@@ -5,7 +5,7 @@ A Hotel Management System (HMS) named "SajiloInn", a web-based application that 
 *Successfully Deployed*
 ![Deployed](https://github.com/Sophiya15/SajiloInn/blob/main/hms/storage/app/public/images/display_image/Success.png)
 
-*Home*
+*Dashboard*
 ![Home](https://github.com/Sophiya15/SajiloInn/blob/main/hms/storage/app/public/images/display_image/Home.png)
 
 *Bookings*
